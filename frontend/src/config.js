@@ -1,0 +1,1 @@
+export const API_URL = 'http://localhost:5000'; // Change to 5001 if backend is on 5001
